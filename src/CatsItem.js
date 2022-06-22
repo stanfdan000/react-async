@@ -6,5 +6,6 @@ export default function CatItem({ cats, }) {
     <div>{cats.age} Years old,This Cat is </div>
     <div> A {cats.gender} with fur the color of</div>
     <div>{cats.color}</div>
+    <p></p>
   </div>;
 }
