@@ -47,6 +47,7 @@ function App() {
     <div className="App">
       <div>
         <CandiesList candy={candy} />
+        <p></p>
       </div>
       <div>
         <CatsList cats={cats} />
